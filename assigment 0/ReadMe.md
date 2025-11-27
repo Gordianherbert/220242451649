@@ -5,14 +5,14 @@ The term data mining is used to describe the whole KDD process because it is the
 # Differences between data wrangling, scanning, and filtering
 
 1. Data Wrangling
-	•	This is the process of cleaning, organizing, and transforming raw data into a usable format.
-	•	It includes fixing errors, handling missing values, converting formats, and merging datasets.
-	•	Basically: making the data ready for analysis.
+	*	This is the process of cleaning, organizing, and transforming raw data into a usable format.
+	*	It includes fixing errors, handling missing values, converting formats, and merging datasets.
+	*	Basically: making the data ready for analysis.
 
 2. Scanning
-	•	Scanning means going through the dataset to look for patterns, trends, or unusual items.
-	•	It doesn’t necessarily change the data; it’s more like exploring it.
-	•	Basically: initial exploration or “looking around” the data.
+	*	Scanning means going through the dataset to look for patterns, trends, or unusual items.
+	*	It doesn’t necessarily change the data; it’s more like exploring it.
+	*	Basically: initial exploration or “looking around” the data.
 
 3. Filtering
 	•	Filtering is selecting only the parts of the data that meet certain conditions.
