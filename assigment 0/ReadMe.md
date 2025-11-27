@@ -1,4 +1,4 @@
-    # Why “data mining” is used to describe the whole knowledge discovery process
+# Why “data mining” is used to describe the whole knowledge discovery process
 
 Even though data mining is supposed to be only one step in the full Knowledge Discovery in Databases (KDD) process, in real life people use the term to refer to the whole thing.
 This happens mainly because:
