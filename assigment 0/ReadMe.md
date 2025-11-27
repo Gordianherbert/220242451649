@@ -15,6 +15,6 @@ The term data mining is used to describe the whole KDD process because it is the
 	*	Basically: initial exploration or “looking around” the data.
 
 3. Filtering
-	•	Filtering is selecting only the parts of the data that meet certain conditions.
-	•	For example, choosing only customers from a certain region or selecting records above a certain value.
-	•	Basically: keeping what you need and removing what you don’t.
+	*	Filtering is selecting only the parts of the data that meet certain conditions.
+	*	For example, choosing only customers from a certain region or selecting records above a certain value.
+	*	Basically: keeping what you need and removing what you don’t.
